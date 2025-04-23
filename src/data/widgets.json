@@ -1,0 +1,17 @@
+{
+    "categories": [
+      {
+        "name": "CSPM Executive Dashboard",
+        "widgets": [
+          {"id": 1, "name": "Sales", "content": "Random sales data"},
+          {"id": 2, "name": "Users", "content": "Random user data"}
+        ]
+      },
+      {
+        "name": "Security Dashboard",
+        "widgets": [
+          {"id": 3, "name": "Threats", "content": "Random security data"}
+        ]
+      }
+    ]
+  }
